@@ -222,7 +222,8 @@
         "component": "richtext",
         "valueType": "string",
         "name": "promotionText",
-        "label": "PromotionText"
+        "label": "PromotionText",
+        "value": ""
       }
     ]
   },

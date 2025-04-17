@@ -214,5 +214,16 @@
         "valueType": "string"
       }
     ]
+  },
+  {
+    "id": "promotions",
+    "fields": [
+      {
+        "component": "richtext",
+        "valueType": "string",
+        "name": "promotionText",
+        "label": "PromotionText"
+      }
+    ]
   }
 ]

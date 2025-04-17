@@ -38,5 +38,11 @@
       "button",
       "title"
     ]
+  },
+  {
+    "id": "promotions",
+    "components": [
+      "promotions"
+    ]
   }
 ]
